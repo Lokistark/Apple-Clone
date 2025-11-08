@@ -10,7 +10,7 @@ To recreate the Apple homepage with pixel-perfect accuracy using modern frontend
 
 ## 🖼️ Screenshot Preview
 
-![Apple-Clone]()
+![Apple-Clone](https://github.com/Lokistark/Apple-Clone/blob/main/Screenshot%202025-11-08%20135650.png)
 
 ## 🛠️ Tech Stack
 - React (with Vite for fast development)
@@ -39,4 +39,4 @@ To recreate the Apple homepage with pixel-perfect accuracy using modern frontend
 
 A static, visually accurate clone of the Apple India homepage, ideal for showcasing frontend skills, practicing UI replication, and learning component-based design.
 
-Apple-Clone [WebPage] - 
+Apple-Clone [WebPage] - https://lokistark.github.io/Apple-Clone/
