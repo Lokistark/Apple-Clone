@@ -40,3 +40,4 @@ To recreate the Apple homepage with pixel-perfect accuracy using modern frontend
 
 - A static, visually accurate clone of the Apple India homepage, ideal for showcasing frontend skills, practicing UI replication, and learning component-based design.
 - Apple-Clone [WebPage] - https://lokistark.github.io/Apple-Clone/
+- Deployed in Versel - https://apple-clonepage.vercel.app/
